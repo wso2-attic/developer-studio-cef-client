@@ -10,7 +10,7 @@ These clients have been implemented using the Chromium Embedded Framework (CEF),
 ## How to Contribute
 
 * WSO2 developer-studio-cef-client code is hosted in [GitHub](https://github.com/wso2/developer-studio-cef-client.git).
-* Please report issues at [JIRA](http://wso2.com/products/developer-studio).
+* Please report issues at [JIRA](https://wso2.org/jira/browse/TOOLS).
 
 
 ## Contact us
